@@ -56,7 +56,6 @@ int main(void)
 	apagar();
 	descendente();
 	apagar();
-	GPIO.
 	return 0;
 }
 
